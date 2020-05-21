@@ -1,6 +1,7 @@
-#자바 스윙 쿠키런
 
-##기능
+# 자바 스윙 쿠키런
+
+## 기능
 
 체력게이지
 점수
@@ -22,5 +23,5 @@
 
 
 
-##영상
+## 영상
 https://www.youtube.com/watch?v=ekxUPLb1EjA&feature=youtu.be
