@@ -1,6 +1,9 @@
 
 # 자바 스윙 쿠키런
 
+
+
+
 ## 기능
 
 - 체력게이지
@@ -30,6 +33,8 @@
 https://www.youtube.com/watch?v=ekxUPLb1EjA&feature=youtu.be
 
 
+
+
 ## 설명 블로그
 
 1.준비 : https://ondolroom.tistory.com/297 
@@ -47,6 +52,8 @@ https://www.youtube.com/watch?v=ekxUPLb1EjA&feature=youtu.be
 7.jump메서드 : https://ondolroom.tistory.com/303 
 
 8.paintComponent 및 결과 : https://ondolroom.tistory.com/304
+
+
 
 
 ## 기능별 연구 블로그
