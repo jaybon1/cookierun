@@ -28,3 +28,67 @@
 
 ## 영상
 https://www.youtube.com/watch?v=ekxUPLb1EjA&feature=youtu.be
+
+
+## 설명 블로그
+
+1.준비 : https://ondolroom.tistory.com/297 
+
+2.전역공간 : https://ondolroom.tistory.com/298 
+
+3.JPanel생성자 : https://ondolroom.tistory.com/299 
+
+4.mapMove메서드 : https://ondolroom.tistory.com/300 
+
+5.hit메서드 : https://ondolroom.tistory.com/301 
+
+6.fall메서드 : https://ondolroom.tistory.com/302 
+
+7.jump메서드 : https://ondolroom.tistory.com/303 
+
+8.paintComponent 및 결과 : https://ondolroom.tistory.com/304
+
+
+## 기능별 연구 블로그
+
+프로그램을 함수화 하기 : https://ondolroom.tistory.com/265
+
+클릭으로 이미지 변경하기 : https://ondolroom.tistory.com/280
+
+쓰레드를 이용하여 repaint 무한반복하기 : https://ondolroom.tistory.com/281
+
+배경화면이 흐르도록 만들기 : https://ondolroom.tistory.com/284
+
+배경화면이 무한반복 하도록 만들기 : https://ondolroom.tistory.com/285
+
+이미지 2개가 만나면 하나 없어지도록 하기 : https://ondolroom.tistory.com/286
+
+이미지 점프 + 낙하 하게 만들기 : https://ondolroom.tistory.com/287
+
+더블점프 구현하기 : https://ondolroom.tistory.com/288
+
+발판 구현하기 : https://ondolroom.tistory.com/289
+
+다중발판 구현하기 : https://ondolroom.tistory.com/294
+
+이미지로 발판 및 젤리 구현하기 : https://ondolroom.tistory.com/296
+
+동작마다 이미지 변경하기 : https://ondolroom.tistory.com/290
+
+페이드 아웃 페이드 인 구현하기 : https://ondolroom.tistory.com/291
+
+더블버퍼링 : https://ondolroom.tistory.com/292
+
+투명화 구현하기 : https://ondolroom.tistory.com/293
+
+
+
+
+
+
+
+
+
+
+
+
