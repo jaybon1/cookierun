@@ -32,6 +32,13 @@ esc를 누르면 일시정지되고 esc를 다시 누르면 게임이 진행된�
 
 
 
+
+## 프레젠테이션
+https://docs.google.com/presentation/d/11-A-YDGr12ncdO9ve9ShfkVe7af7aTftjNtVILobRZU/edit?usp=sharing
+
+
+
+
 ## 영상
 https://www.youtube.com/watch?v=ekxUPLb1EjA&feature=youtu.be
 
